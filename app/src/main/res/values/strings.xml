@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Greeting Card</string>
+    <string name="new_year_greeting_card">New Year Greeting Card</string>
+    <string name="enter_the_name">Enter The Name</string>
+    <string name="name">Name</string>
+    <string name="create_card">Create Card</string>
 </resources>
